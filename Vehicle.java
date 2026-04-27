@@ -1,6 +1,6 @@
-abstract class vehicle {
+ abstract class vehicle {
     int No_Of_Wheels;
-    abstract void start();
+     abstract void start();
 }
 class Car extends vehicle{
     public Car() {
