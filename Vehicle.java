@@ -7,7 +7,7 @@ class Car extends vehicle{
         No_Of_Wheels = 4;
     }
     void start(){
-        System.out.println("Car is starting");
+        System.out.println("Car is starting");   
     }
     class scooter extends vehicle{
         public scooter() {
